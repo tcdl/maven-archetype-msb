@@ -54,7 +54,7 @@
             <snapshots/>
             <id>snapshots</id>
             <name>libs-snapshot</name>
-            <url>http://oss.jfrog.org/oss-snapshot-local/io/github/tcdl/msb/msb-java-core/</url>
+            <url>http://oss.jfrog.org/oss-snapshot-local/</url>
         </repository>
     </repositories>
 
